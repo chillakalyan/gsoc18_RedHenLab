@@ -62,7 +62,7 @@ def do_face_alignment_openface(input_folder, output_folder):
     # execute command
     print(c1)
     subprocess.call(c1, shell=True)
-
+    #change should be done before execution of this program 
 
 
 argparse = ArgumentParser()
